@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Política de Privacidade - Intense RJ Bot</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f9f9f9;
+      color: #333;
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 0 20px;
+      line-height: 1.6;
+    }
+    h1, h3 {
+      color: #2c3e50;
+    }
+    h1 {
+      border-bottom: 2px solid #2980b9;
+      padding-bottom: 10px;
+      margin-bottom: 20px;
+    }
+    section {
+      margin-bottom: 25px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Política de Privacidade - Intense RJ Bot</h1>
+  
+  <section>
+    <p>A sua privacidade é importante para nós. Esta política explica como o Intense RJ Bot coleta, usa e protege as informações dos usuários no servidor Discord.</p>
+  </section>
+
+  <section>
+    <h3>1. Informações Coletadas</h3>
+    <p>O Intense RJ Bot pode coletar informações básicas como:</p>
+    <ul>
+      <li>IDs de usuário Discord</li>
+      <li>Comandos executados no bot</li>
+    </ul>
+    <p>Esses dados são coletados apenas para o funcionamento correto do bot e para melhorar a experiência dos usuários.</p>
+  </section>
+
+  <section>
+    <h3>2. Uso das Informações</h3>
+    <p>As informações coletadas são usadas para:</p>
+    <ul>
+      <li>Processar comandos e respostas do bot</li>
+      <li>Garantir a segurança e a integrid
